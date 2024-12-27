@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Great+Vibes&family=Kaushan+Script&family=Permanent+Marker&family=Silkscreen:wght@400;700&display=swap');
+
+.cardContainer{
+  min-height: fit-content;
+}
+.p{
+  font-family: "Kaushan Script", serif;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+.p1{
+  font-family: "Gloria Hallelujah", serif;
+  font-weight: 500;
+  font-style: normal;
+ 
+}
+.title{
+  font-family: "Silkscreen", serif;
+  font-weight: 700;
+  font-style: normal;
+}
